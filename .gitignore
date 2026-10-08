@@ -1,0 +1,28 @@
+# Data are not distributed with this repository
+Data/
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# R / OS / editor clutter
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+desktop.ini
